@@ -9,3 +9,5 @@ werkmap = os.getcwd()
 
 #op het sherm printen
 print("de huidige map is: " + werkmap)
+
+os.mkdir("Een nieuwe map")
